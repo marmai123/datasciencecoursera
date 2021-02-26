@@ -1,0 +1,17 @@
+---
+title: "Hello World"
+author: "Markku Maijala"
+date: '2021-02-26'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello World
+
+```{r Hello World}
+print("Hello World!")
+```
+
